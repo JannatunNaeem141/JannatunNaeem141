@@ -52,7 +52,7 @@ I'm Jannatun Naeem, a Full Stack Web Developer, looking to enhance my profession
 #### Contacts
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1PfmcN3MBDcEKj6WM35NWHnNg8FktQ6a6/view?usp=sharing)
 - :email: jannatunnaeem141@gmail.com
-- :phone: jannatunnaeem141@gmail.com
+- :phone: +8801934624467
 
 
 #### Profile Visits 
