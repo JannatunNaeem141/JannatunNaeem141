@@ -54,7 +54,7 @@ I'm Jannatun Naeem, a Full Stack Web Developer, looking to enhance my profession
        <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=JannatunNaeem141&theme=blue-green&hide_border=true&theme=tokyonight"></td>
      </tr>
      <tr>
-        <td  colspan="2"><img align="center" alt="JannatunNaeem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JannatunNaeem141&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&hide=contribs,prs&theme=tokyonight" /></td>
+        <td  colspan="2"><img align="center" alt="JannatunNaeem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JannatunNaeem141&hide=contribs,prs&theme=tokyonight" /></td>
      </tr>
    </table>
 </p>
