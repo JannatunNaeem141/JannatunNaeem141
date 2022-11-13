@@ -41,4 +41,6 @@ I'm Jannatun Naeem, a Full Stack Web Developer, looking to enhance my profession
 
 #### Github Stats
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JannatunNaeem141&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Jannatun Naeem" />
+
 ![JannatunNaeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=JannatunNaeem141&hide=contribs,prs&theme=tokyonight)
