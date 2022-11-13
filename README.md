@@ -51,10 +51,10 @@ I'm Jannatun Naeem, a Full Stack Web Developer, looking to enhance my profession
    <h1 align="center">Github Stats</h1>
        <tr>
        <td><img align="center" alt="JannatunNaeem's Top Languages]" src="https://github-readme-stats.vercel.app/api/top-langs?username=JannatunNaeem141&show_icons=true&locale=en&layout=compact&theme=tokyonight"> </td>
-       <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=JannatunNaeem141&theme=blue-green&hide_border=true&theme=tokyonight"></td>
+       <td><img align="center" alt="JannatunNaeem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JannatunNaeem141&hide=contribs,prs&theme=tokyonight" /></td>
      </tr>
      <tr>
-        <td  colspan="2"><img align="center" alt="JannatunNaeem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JannatunNaeem141&hide=contribs,prs&theme=tokyonight" /></td>
+        <td  colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=JannatunNaeem141&theme=tokyonight"></td>
      </tr>
    </table>
 </p>
