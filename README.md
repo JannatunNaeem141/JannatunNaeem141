@@ -1,5 +1,9 @@
 ## Hi I'm Naeem <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
+<!-- <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div> -->
+
 I'm Jannatun Naeem, a Full Stack Web Developer, looking to enhance my professional experience. I Spend most of my time coding on various projects.
 
 <br />
@@ -39,16 +43,9 @@ I'm Jannatun Naeem, a Full Stack Web Developer, looking to enhance my profession
 
 <br />
 
-<!-- #### Github Stats -->
-<!-- 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JannatunNaeem141&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Jannatun Naeem" />
-
-![JannatunNaeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=JannatunNaeem141&hide=contribs,prs&theme=tokyonight) -->
-
-
 <p align="center">
    <table>
-   <h1 align="center">Github Stats</h1>
+   <h3 align="center">Github Stats</h3>
        <tr>
        <td><img align="center" alt="JannatunNaeem's Top Languages]" src="https://github-readme-stats.vercel.app/api/top-langs?username=JannatunNaeem141&show_icons=true&locale=en&layout=compact&theme=tokyonight"> </td>
        <td><img align="center" alt="JannatunNaeem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JannatunNaeem141&hide=contribs,prs&theme=tokyonight" /></td>
@@ -58,3 +55,10 @@ I'm Jannatun Naeem, a Full Stack Web Developer, looking to enhance my profession
      </tr>
    </table>
 </p>
+
+
+<!-- #### Github Stats -->
+<!-- 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JannatunNaeem141&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Jannatun Naeem" />
+
+![JannatunNaeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=JannatunNaeem141&hide=contribs,prs&theme=tokyonight) -->
