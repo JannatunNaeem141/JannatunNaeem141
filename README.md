@@ -10,13 +10,13 @@ I'm Jannatun Naeem, a Full Stack Web Developer, looking to enhance my profession
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-JannatunNaeem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naeem141/) [![Mail Badge](https://img.shields.io/badge/-JannatunNaeem-1ca0f1?style=flat&labelColor=ffffff&logo=facebook&logoColor=blue)](https://www.facebook.com/naeem141/) [![Mail Badge](https://img.shields.io/badge/-JannatunNaeem-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jannatunnaeem141@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@Jannatu03392732-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Jannatu03392732) [![Mail Badge](https://img.shields.io/badge/-@Jannatunnaeem141-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/jannatunnaeem141/)
+[![Linkedin Badge](https://img.shields.io/badge/-JannatunNaeem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naeem141/) [![Mail Badge](https://img.shields.io/badge/-JannatunNaeem-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jannatunnaeem141@gmail.com)
 
 <br />
 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- ⚡ I’m currently working on React.JS.
-- 🔭 I’m looking to enhance my professional experience.
+- ⚡ Currently working on Next.JS.
+- 🔭 Looking to enhance my professional experience.
 - 📫 How to reach me?> jannatunnaeem141@gmail.com
 - 😄 Fun fact: I watch movies in my leisure periods and go on tours very often.
 
@@ -26,12 +26,11 @@ I'm Jannatun Naeem, a Full Stack Web Developer, looking to enhance my profession
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind-007acc?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express Badge](https://img.shields.io/badge/-Expressjs-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=3C873A)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=e535ab)](#)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <br />
 
 #### Contacts
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1PfmcN3MBDcEKj6WM35NWHnNg8FktQ6a6/view?usp=sharing)
 - :email: jannatunnaeem141@gmail.com
 - :phone: +8801934624467
 
