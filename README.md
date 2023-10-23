@@ -39,7 +39,7 @@ I'm Jannatun Naeem, a Full Stack Web Developer, looking to enhance my profession
 
 #### Profile Visits 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=JannatunNaeem141.JannatunNaeem141&left_color=gray&right_color=blue)
+![](https://komarev.com/ghpvc/?username=JannatunNaeem141)
 
 <br />
 
