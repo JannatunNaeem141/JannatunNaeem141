@@ -46,11 +46,11 @@ I'm Jannatun Naeem, a Full Stack Web Developer, looking to enhance my profession
    <table>
    <h3 align="center">Github Stats</h3>
      <tr>
-       <td><img align="center" alt="JannatunNaeem's Top Languages]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannatunNaeem141&layout=compact&theme=tokyonight"></td>
-       <td><img align="center" alt="JannatunNaeem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JannatunNaeem141&show_icons=true&theme=tokyonight" /></td>
+       <td><img align="center" alt="JannatunNaeem's Top Languages]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannatunNaeem141&layout=compact&theme=tokyonight&hide_border=true"></td>
+       <td><img align="center" alt="JannatunNaeem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JannatunNaeem141&show_icons=true&theme=tokyonight&hide_border=true" /></td>
      </tr>
      <tr>
-        <td  colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=JannatunNaeem141&theme=tokyonight"></td>
+        <td  colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=JannatunNaeem141&theme=tokyonight&hide_border=true"></td>
      </tr>
    </table>
 </p>
