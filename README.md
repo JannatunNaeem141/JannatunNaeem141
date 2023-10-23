@@ -46,7 +46,7 @@ I'm Jannatun Naeem, a Full Stack Web Developer, looking to enhance my profession
    <table>
    <h3 align="center">Github Stats</h3>
      <tr>
-       <td><img align="center" alt="JannatunNaeem's Top Languages]" src="https://github-readme-stats.vercel.app/api/top-langs?username=JannatunNaeem141&show_icons=true&locale=en&layout=compact&theme=tokyonight"></td>
+       <td><img align="center" alt="JannatunNaeem's Top Languages]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JannatunNaeem141&layout=compact&theme=tokyonight"></td>
        <td><img align="center" alt="JannatunNaeem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JannatunNaeem141&show_icons=true&theme=tokyonight" /></td>
      </tr>
      <tr>
