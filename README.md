@@ -1,9 +1,5 @@
 ## Hi I'm Naeem <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div> -->
-
 I'm Jannatun Naeem, a Full Stack Web Developer, looking to enhance my professional experience. I Spend most of my time coding on various projects.
 
 <br />
@@ -23,8 +19,6 @@ I'm Jannatun Naeem, a Full Stack Web Developer, looking to enhance my profession
 <br />
 
 #### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -54,10 +48,3 @@ I'm Jannatun Naeem, a Full Stack Web Developer, looking to enhance my profession
      </tr>
    </table>
 </p>
-
-
-<!-- #### Github Stats -->
-<!-- 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JannatunNaeem141&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Jannatun Naeem" />
-
-![JannatunNaeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=JannatunNaeem141&hide=contribs,prs&theme=tokyonight) -->
