@@ -17,10 +17,10 @@ I'm Jannatun Naeem, a Full Stack Web Developer, looking to enhance my profession
 <br />
 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- ⚡ Currently working on Next.JS.
+- ⚡ Currently working on NextJS.
 - 🔭 Looking to enhance my professional experience.
 - 📫 How to reach me?> jannatunnaeem141@gmail.com
-- 😄 Fun fact: I watch movies in my leisure periods and go on tours very often.
+- 😄 Fun fact: I watch movies in my leisure periods, explore new places on holidays, and often go on tours.
 
 <br />
 
