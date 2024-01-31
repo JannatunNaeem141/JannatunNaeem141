@@ -18,9 +18,8 @@ I'm Jannatun Naeem, a Full Stack Web Developer, looking to enhance my profession
 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - ⚡ Currently working on NextJS.
-- 🔭 Looking to enhance my professional experience.
-- 📫 How to reach me?> jannatunnaeem141@gmail.com
-- 😄 Fun fact: I watch movies in my leisure periods, explore new places on holidays, and often go on tours.
+- 📫 Reach me out > jannatunnaeem141@gmail.com
+- 😄 Love to watch movies in leisure periods, explore new places on holidays, and often go on tours.
 
 <br />
 
@@ -44,7 +43,7 @@ I'm Jannatun Naeem, a Full Stack Web Developer, looking to enhance my profession
        <td><img align="center" alt="JannatunNaeem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JannatunNaeem141&show_icons=true&theme=tokyonight&hide_border=true" /></td>
      </tr>
      <tr>
-        <td  colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=JannatunNaeem141&theme=tokyonight&hide_border=true"></td>
+        <td colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=JannatunNaeem141&theme=tokyonight&hide_border=true"></td>
      </tr>
    </table>
 </p>
